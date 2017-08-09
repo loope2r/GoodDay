@@ -1,1 +1,2 @@
 # GoodDay
+Day is good
